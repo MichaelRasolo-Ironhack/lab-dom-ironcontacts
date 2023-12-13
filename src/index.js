@@ -110,5 +110,3 @@ function addRandom() {
   `;
   
   tableBody.appendChild(exampleRow);}
-
-// Your code goes here ...
